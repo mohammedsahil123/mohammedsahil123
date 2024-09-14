@@ -5,7 +5,7 @@
 
 <h3 align="center">💡 Exploring the world of Machine Learning and AI.</h3>
 
-- 💼 Feel free for collaborations or networking! [www.linkedin.com/in/yukta-s-dayakar-595492292](www.linkedin.com/in/yukta-s-dayakar-595492292)
+- 💼 Feel free for collaborations or networking! [https://www.linkedin.com/in/mohammed-sahil-9b7904292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me *mohammeddsahil.1902@gmail.com*
 
