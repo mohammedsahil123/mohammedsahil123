@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FFFFFF&size=40&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YUKTA+S+DAYAKAR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FFFFFF&size=40&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+MOHAMMED SAHIL" alt="Typing SVG" />
 </h1>
 
 
@@ -7,9 +7,9 @@
 
 - 💼 Feel free for collaborations or networking! [www.linkedin.com/in/yukta-s-dayakar-595492292](www.linkedin.com/in/yukta-s-dayakar-595492292)
 
-- 📫 How to reach me *dayakarysd@gmail.com*
+- 📫 How to reach me *mohammeddsahil.1902@gmail.com*
 
-- ⚡ Life Outside Tech *💃 Enthusiastic about dancing and exploring new moves!*
+- ⚡ Life Outside Tech *💃 Enthusiastic about sports and exploring new places!*
 
 
 <p align="left">
