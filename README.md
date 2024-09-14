@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FFFFFF&size=40&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+MOHAMMED SAHIL" alt="Typing SVG" />
-</h1>
 
 
-<h3 align="center">💡 Exploring the world of Machine Learning and AI.</h3>
+# Hi 👋, I'm MOHAMMED SAHIL
+<h3>💡 Exploring the world of Machine Learning and AI.</h3>
 
 - 💼 Feel free for collaborations or networking! [https://www.linkedin.com/in/mohammed-sahil-9b7904292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
